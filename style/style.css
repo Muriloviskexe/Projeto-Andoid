@@ -34,6 +34,7 @@ header > h2{
     font-weight: 300;
     font-size: 1em;
     width: 300px;
+    padding-bottom: 30px;
 }
 
 nav{
